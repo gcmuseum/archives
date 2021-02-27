@@ -19,9 +19,9 @@
     * [6.1.1. 모두의 박물관 MI](6.collections/6.1/6.1.1.md)
     * [6.1.2. modules](6.collections/6.1/6.1.2..md)
 * [7. 연구](7.researches/README.md)
-  * [7.1. 디지털 작품의 진본성 유지를 위한 프로비넌스\(provenence\)의 무결성 입증에 관하여](7.researches/7.1./README.md)
-    * [7.1.1. Git과 Github, 그리고 Linux](7.researches/7.1./7.1.1..md)
-    * [7.1.2. 분산형 버전관리 시스템을 활용한 기록관리](7.researches/7.1./7.1.2..md)
-    * [7.1.3. 결론](7.researches/7.1./7.1.3..md)
+  * [7.1. 디지털 작품의 진본성 유지를 위한 프로비넌스\(provenence\)의 무결성 입증에 관하여](7.researches/7.1/README.md)
+    * [7.1.1. Git과 Github, 그리고 Linux](7.researches/7.1/7.1.1.md)
+    * [7.1.2. 분산형 버전관리 시스템을 활용한 기록관리](7.researches/7.1/7.1.2.md)
+    * [7.1.3. 결론](7.researches/7.1/7.1.3.md)
 * [8. 참여자 소개](8.credits.md)
 
